@@ -1,0 +1,11 @@
+2021-01-19 23:39:17,938 - __main__ - INFO - Registering GATT application...
+2021-01-19 23:39:17,951 - __main__ - INFO - GATT application registered
+2021-01-19 23:39:17,953 - __main__ - INFO - Advertisement registered
+2021-01-19 23:39:45,970 - __main__ - INFO - wifi and ip read: None
+2021-01-19 23:39:46,117 - __main__ - INFO - getting available wifi networks read: []
+2021-01-19 23:40:07,537 - __main__ - INFO - wifi and ip read: bytearray(b'{"status":200,"message":null,"hostname":"192.168.68.152","wifiname":"FiOS-AVFL0-5G"}')
+2021-01-19 23:40:21,848 - __main__ - INFO - getting available wifi networks read: bytearray(b'["FiOS-AVFL0-Guest","NETGEAR40","FiOS-AVFL0-5G","NETGEAR_EXT"]')
+2021-01-19 23:40:26,137 - __main__ - INFO - getting available wifi networks read: bytearray(b'["FiOS-AVFL0-Guest","FiOS-AVFL0-5G","NETGEAR_EXT","\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00","NETGEAR40"]')
+2021-01-19 23:40:30,398 - __main__ - INFO - getting available wifi networks read: bytearray(b'["FiOS-AVFL0-Guest","FiOS-AVFL0-5G","NETGEAR_EXT","\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00","NETGEAR40","C4C080"]')
+2021-01-19 23:41:28,473 - __main__ - INFO - unregistering advertisement
+2021-01-19 23:41:28,476 - __main__ - INFO - SIGINT or CTRL-C detected. Exiting gracefully
