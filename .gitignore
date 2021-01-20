@@ -1,0 +1,7 @@
+*.env
+__pycache__
+known_faces
+known_faces2
+unknown_faces
+config.pickle
+*.mp4
